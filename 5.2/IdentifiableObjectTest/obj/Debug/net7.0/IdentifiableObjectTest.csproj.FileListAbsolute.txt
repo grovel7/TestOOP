@@ -1,0 +1,6 @@
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/obj/Debug/net7.0/IdentifiableObjectTest.csproj.AssemblyReference.cache
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/obj/Debug/net7.0/IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/obj/Debug/net7.0/IdentifiableObjectTest.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/obj/Debug/net7.0/IdentifiableObjectTest.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/SwinAdv/IdentifiableObjectTest/obj/Debug/net7.0/IdentifiableObjectTest.csproj.CoreCompileInputs.cache
