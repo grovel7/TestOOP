@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/SwinAdvTest.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
         "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
         "outputPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/obj/",
+=======
+    "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj": {}
+  },
+  "projects": {
+    "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
+        "projectName": "SwinAdv",
+        "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
+        "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
+        "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/obj/",
+>>>>>>> origin/master
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
@@ -57,6 +71,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/SwinAdvTest.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -65,6 +80,16 @@
         "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/SwinAdvTest.csproj",
         "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
         "outputPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/obj/",
+=======
+    "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj",
+        "projectName": "SwinAdvTest",
+        "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj",
+        "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
+        "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/obj/",
+>>>>>>> origin/master
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
@@ -79,8 +104,13 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj": {
                 "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj"
+=======
+              "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj": {
+                "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj"
+>>>>>>> origin/master
               }
             }
           }

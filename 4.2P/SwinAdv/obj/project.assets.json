@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
       "projectName": "SwinAdv",
       "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
       "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
       "outputPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/obj/",
+=======
+      "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
+      "projectName": "SwinAdv",
+      "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
+      "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
+      "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/obj/",
+>>>>>>> origin/master
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
