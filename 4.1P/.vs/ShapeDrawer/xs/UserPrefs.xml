@@ -1,28 +1,33 @@
 ﻿<Properties StartupConfiguration="{E2AED566-A5AD-481B-B0A7-FF88B5D069F8}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ShapeDrawer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../5.3C/MyRectangle.cs">
     <Files>
-      <File FileName="Program.cs" />
-      <File FileName="Drawing.cs" Line="19" Column="10" />
-      <File FileName="Shape.cs" />
-      <File FileName="myeasylog.log" />
+      <File FileName="ExtensionMethods.cs" Line="2" Column="17" />
+      <File FileName="Drawing.cs" Line="166" Column="28" />
+      <File FileName="Shape.cs" Line="105" Column="29" />
+      <File FileName="MyRectangle.cs" Line="3" Column="17" />
+      <File FileName="MyCircle.cs" Line="64" Column="37" />
+      <File FileName="MyLine.cs" Line="94" Column="38" />
+      <File FileName="Program.cs" Line="44" Column="76" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShapeDrawer">
             <Node name="ShapeDrawer">
-              <Node name="Drawing.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShapeDrawer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

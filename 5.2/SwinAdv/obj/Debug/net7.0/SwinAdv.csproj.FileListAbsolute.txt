@@ -1,0 +1,70 @@
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Projects/SwinAdv/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Projects/2.4P/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Projects/4.2P/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P copy/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll

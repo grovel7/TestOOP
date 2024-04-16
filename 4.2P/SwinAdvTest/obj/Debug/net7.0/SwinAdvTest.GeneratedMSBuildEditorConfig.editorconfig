@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SwinAdvTest
-build_property.ProjectDir = /Users/sarthakpradhan/Projects/4.2P/SwinAdvTest/
+build_property.ProjectDir = /Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/
