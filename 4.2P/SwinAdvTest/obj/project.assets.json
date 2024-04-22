@@ -1002,19 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/SwinAdvTest.csproj",
       "projectName": "SwinAdvTest",
       "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/SwinAdvTest.csproj",
       "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
       "outputPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/obj/",
-=======
-      "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj",
-      "projectName": "SwinAdvTest",
-      "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/SwinAdvTest.csproj",
-      "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
-      "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdvTest/obj/",
->>>>>>> origin/master
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
@@ -1029,13 +1021,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-<<<<<<< HEAD
             "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj": {
               "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj"
-=======
-            "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj": {
-              "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj"
->>>>>>> origin/master
             }
           }
         }
@@ -1090,5 +1077,13 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdvTest/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

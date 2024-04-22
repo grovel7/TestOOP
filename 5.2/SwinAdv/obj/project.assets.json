@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/SwinAdv.csproj",
+      "projectUniqueName": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/SwinAdv.csproj",
       "projectName": "SwinAdv",
-      "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/SwinAdv.csproj",
+      "projectPath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/SwinAdv.csproj",
       "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
-      "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/",
+      "outputPath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"

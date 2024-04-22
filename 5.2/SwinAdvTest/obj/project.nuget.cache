@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BO8LByP549pJ5F7XuC+EhFGvcXZUpf6mMdS86BNe5Syzxs/FehGl30YbdCjIQJSq23t8frQ7lAnPQXdOmPhNtg==",
+  "dgSpecHash": "6KXcon6pmWCuR43FnERIsdSiuvROfVUDWxQYnMq5R0e01R+rwINfip83P5ztcHVhguurW5ejDH2Dbq8fJ0ywVQ==",
   "success": true,
-  "projectFilePath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdvTest/SwinAdvTest.csproj",
+  "projectFilePath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdvTest/SwinAdvTest.csproj",
   "expectedPackageFiles": [
     "/Users/sarthakpradhan/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/sarthakpradhan/.nuget/packages/microsoft.codecoverage/17.7.1/microsoft.codecoverage.17.7.1.nupkg.sha512",

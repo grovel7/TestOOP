@@ -54,3 +54,17 @@
 /Users/sarthakpradhan/Projects/3.3P/obj/Debug/net7.0/ShapeDrawer.pdb
 /Users/sarthakpradhan/Projects/3.3P/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
 /Users/sarthakpradhan/Projects/3.3P/obj/Debug/net7.0/ref/ShapeDrawer.dll
+/Users/sarthakpradhan/Projects/OOP/4.1P/bin/Debug/net7.0/ShapeDrawer
+/Users/sarthakpradhan/Projects/OOP/4.1P/bin/Debug/net7.0/ShapeDrawer.deps.json
+/Users/sarthakpradhan/Projects/OOP/4.1P/bin/Debug/net7.0/ShapeDrawer.runtimeconfig.json
+/Users/sarthakpradhan/Projects/OOP/4.1P/bin/Debug/net7.0/ShapeDrawer.dll
+/Users/sarthakpradhan/Projects/OOP/4.1P/bin/Debug/net7.0/ShapeDrawer.pdb
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.dll
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/refint/ShapeDrawer.dll
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.pdb
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ShapeDrawer.genruntimeconfig.cache
+/Users/sarthakpradhan/Projects/OOP/4.1P/obj/Debug/net7.0/ref/ShapeDrawer.dll

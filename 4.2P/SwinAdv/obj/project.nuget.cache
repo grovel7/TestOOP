@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "i8XH0VqY/CwIBlQK8uiaO2a2s/Dd4sWRC90vigsh6Dy59uh+miGlc6wDYFfVoorgYihlz1Kf05FLfZI45ePwaA==",
   "success": true,
   "projectFilePath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
-=======
-  "dgSpecHash": "/XC9Utkfth/9rycDXBUzP8kkjc95lSEaxYCqVQSbOA8rJzhjjQKQVAqrFb6d5XDO8ebAblPbOFmCbVRu6kVyRg==",
-  "success": true,
-  "projectFilePath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
->>>>>>> origin/master
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

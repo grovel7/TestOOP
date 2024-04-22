@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdvTest/SwinAdvTest.csproj",
+      "projectUniqueName": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdvTest/SwinAdvTest.csproj",
       "projectName": "SwinAdvTest",
-      "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdvTest/SwinAdvTest.csproj",
+      "projectPath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdvTest/SwinAdvTest.csproj",
       "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
-      "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdvTest/obj/",
+      "outputPath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdvTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
@@ -1021,8 +1021,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/SwinAdv.csproj": {
-              "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/SwinAdv.csproj"
+            "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/SwinAdv.csproj": {
+              "projectPath": "/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/SwinAdv.csproj"
             }
           }
         }

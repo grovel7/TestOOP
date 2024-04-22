@@ -68,3 +68,17 @@
 /Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
 /Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
 /Users/sarthakpradhan/Desktop/UNI/oopClone/5.2/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.deps.json
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.runtimeconfig.json
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/bin/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfoInputs.cache
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.AssemblyInfo.cs
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.csproj.CoreCompileInputs.cache
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.dll
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/refint/SwinAdv.dll
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.pdb
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/SwinAdv.genruntimeconfig.cache
+/Users/sarthakpradhan/Projects/OOP/5.2/SwinAdv/obj/Debug/net7.0/ref/SwinAdv.dll

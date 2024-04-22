@@ -1,33 +1,39 @@
 ﻿<Properties StartupConfiguration="{5F8A1CA3-BA89-4478-82D5-0C6971CCC4B3}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SwinAdv PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdv/Inventory.cs">
     <Files>
-      <File FileName="SwinAdvTest/PlayerTest.cs" Line="67" Column="42" />
+      <File FileName="SwinAdvTest/PlayerTest.cs" />
       <File FileName="SwinAdv/Inventory.cs" Line="22" Column="33" />
-      <File FileName="SwinAdv/Player.cs" Line="32" Column="76" />
-      <File FileName="SwinAdvTest/IdentifiableObjectTest.cs" Line="12" Column="20" />
-      <File FileName="SwinAdvTest/InventoryTest.cs" Line="33" Column="1" />
-      <File FileName="SwinAdv/Program.cs" Line="1" Column="1" />
+      <File FileName="SwinAdv/Player.cs" />
+      <File FileName="SwinAdvTest/IdentifiableObjectTest.cs" />
+      <File FileName="SwinAdvTest/InventoryTest.cs" />
+      <File FileName="SwinAdv/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="4.2p" expanded="True">
-            <Node name="SwinAdv">
-              <Node name="Inventory.cs" selected="True" />
+          <Node name="4.2p" selected="True">
+            <Node name="SwinAdvTest">
+              <Node name="SwinAdvTest" expanded="True">
+                <Node name="BagTest" expanded="True" />
+                <Node name="IdentifiableObjectTest" expanded="True" />
+                <Node name="TestInventory" expanded="True" />
+                <Node name="TestItem" expanded="True" />
+                <Node name="TestPlayer" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__" />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

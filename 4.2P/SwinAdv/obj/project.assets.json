@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
       "projectName": "SwinAdv",
       "projectPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/SwinAdv.csproj",
       "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
       "outputPath": "/Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/obj/",
-=======
-      "projectUniqueName": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
-      "projectName": "SwinAdv",
-      "projectPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/SwinAdv.csproj",
-      "packagesPath": "/Users/sarthakpradhan/.nuget/packages/",
-      "outputPath": "/Users/sarthakpradhan/Desktop/UNI/oopClone/4.2P/SwinAdv/obj/",
->>>>>>> origin/master
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarthakpradhan/.nuget/NuGet/NuGet.Config"
@@ -70,5 +62,13 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/sarthakpradhan/Projects/OOP/4.2P/SwinAdv/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
