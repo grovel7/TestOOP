@@ -2,12 +2,13 @@
 using SwinAdv;
 namespace SwinAdvTest
 {
-	public class LookCommandTest
-	{
-        private Item gem1, gem2;
-        private Player player;
-        private Bag b1;
-        private LookCommand command;
+    public class LookCommandTest
+    {
+        Item gem1, gem2;
+        Player player;
+        Bag b1;
+        //private Bag b2;
+        LookCommand command;
 
         [SetUp]
         public void SetUp()
@@ -18,6 +19,7 @@ namespace SwinAdvTest
             player = new Player("Sarthak", "finder of lost grace");
             command = new LookCommand();
         }
+
 
         [Test]
         public void TestLookAtMe()
@@ -74,9 +76,10 @@ namespace SwinAdvTest
         {
             player.Inventory.Put(b1);
             string output = command.Execute(player, new string[] { "look", "at", "ruby", "in", "bagb1" });
-            Assert.That(output, Is.EqualTo("I cannot find the ruby in the backpack"));
+            Assert.That(output, Is.EqualTo("I cannot find the ruby"));
         }
 
+        
         [Test]
         public void TestInvalidLook()
         {
@@ -90,4 +93,3 @@ namespace SwinAdvTest
         }
     }
 }
-

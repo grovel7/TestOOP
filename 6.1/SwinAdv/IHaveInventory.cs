@@ -7,7 +7,10 @@ namespace SwinAdv
 
 		string Name //readonly property
 		{
-			get;
+			get
+			{
+				return Name;
+			}
 		}
 	}
 }

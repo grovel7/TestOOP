@@ -41,7 +41,7 @@ namespace SwinAdv
                 string desc = LookAtIn(id, container);
                 if (desc == null)
                 {
-                    return "I can't find the " + text[4];
+                    return "I can't find the " + id;
                 }
                 return desc;
             }
@@ -58,7 +58,7 @@ namespace SwinAdv
                     return "What do you want to look in?";
                 }
 
-                // Fetch the container
+                
                 container = FetchContainer(p, text[4]);
                 if (container == null)
                 {
@@ -80,7 +80,7 @@ namespace SwinAdv
         }
 
         // Method to fetch the container
-        private IHaveInventory? FetchContainer(Player p, string containerId)
+        private IHaveInventory FetchContainer(Player p, string containerId)
         {
             return p.Locate(containerId) as IHaveInventory;
         }
@@ -93,11 +93,11 @@ namespace SwinAdv
                 // Returns the full description if the object is found
                 return container.Locate(thingId).FullDescription;
             }
-            else
-            {
+            
+            
                 // If the container cannot be found
-                return $"I cannot find the {thingId}";
-            }
+            return $"I cannot find the {thingId}";
+            
         }
     }
 }

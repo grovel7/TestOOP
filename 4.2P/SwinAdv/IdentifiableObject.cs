@@ -13,7 +13,7 @@ namespace SwinAdv
 			//adds identifiers from the passed array
 			for(int i = 0; i <idents.Length;i++)
 			{
-				_identifiers.Add(idents[i]); 
+                AddIdentifier(idents[i]); 
 			}
 
 		}

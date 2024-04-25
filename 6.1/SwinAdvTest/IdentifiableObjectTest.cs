@@ -18,7 +18,7 @@ public class IdentifiableObjectTest
     public void Setup()
     {
         _testString = "Fred";
-        _testArray = new string[] { "fred", "bob" };
+        _testArray = new string[] { "Fred", "Bob" };
         _testObject = new IdentifiableObject(_testArray);
         _testObject.AddIdentifier(_testString);
 
@@ -60,7 +60,7 @@ public class IdentifiableObjectTest
     [Test]
     public void TestAddId() //Check that you can add identifiers to the object.
     {
-        _testObject.AddIdentifier("wilma");
+        _testObject.AddIdentifier("Wilma");
         Assert.IsTrue(_testObject.AreYou("wilma"));
         Assert.IsTrue(_testObject.AreYou("fred"));
         Assert.IsTrue(_testObject.AreYou("bob"));
