@@ -3,8 +3,7 @@ namespace Test
 {
 	public class Transaction : Thing
 	{
-		//private string _number;
-		//private string _name;
+		
 		private decimal _amount;
 
 
