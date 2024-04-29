@@ -1,52 +1,32 @@
 ﻿using System;
 namespace Test
 {
-	public class Transaction
+	public class Transaction : Thing
 	{
-		private string _number;
-		private string _name;
+		//private string _number;
+		//private string _name;
 		private decimal _amount;
 
 
-		public Transaction(string number , string name , decimal amount)
+		public Transaction(string number , string name , decimal amount) : base(number , name)
 		{
-			_number = number;
-			_name = name;
+		
 			_amount = amount;
 		}
 
-		public void Print()
+		public override void Print()
 		{
-            Console.WriteLine($"#{_number} , {_name} , {_amount:C}");
-          
+			Console.WriteLine($"#{Number} , {Name} , {_amount:C}");
+            
         }
 
-		public decimal Total()
+		public override decimal Total()
 		{
 			return _amount;
 		}
 
 		
 
-		//property
-
-
-		public string Number
-		{
-			get
-			{
-				return _number;
-			}
-		}
-
-
-		public string Name
-		{
-			get
-			{
-				return Name;
-			}
-		}
 		
 
 	}

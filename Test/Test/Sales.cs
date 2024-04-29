@@ -3,46 +3,36 @@ namespace Test
 {
 	public class Sales
 	{
-		private List<Batch> _batch_orders = new List<Batch>();
-		private List<Transaction> _single_orders = new List<Transaction>();
+		
+
+		private List<Thing> _orders = new List<Thing>();
 
 
 		public Sales()
 		{
 
 		}
-
-		public void AddBatch(Batch batch)
+		public void Add(Thing thing)
 		{
-			_batch_orders.Add(batch);
+			_orders.Add(thing);
 		}
 
-		public void AddTransaction(Transaction trans)
-		{
-			_single_orders.Add(trans);
-		}
-
-		public void PrintOrders()
-		{
-			decimal totalBatchOrder = 0;
-			decimal totalTransOrder = 0;
-			Console.WriteLine("Sale: ");
-			foreach(Batch batch in _batch_orders)
-			{
-				batch.Print();
-				totalBatchOrder = totalBatchOrder + batch.Total();
-			}
-
-            foreach (Transaction transaction in _single_orders)
+        public void PrintOrders()
+        {
+            decimal TotalSales = 0;
+            Console.WriteLine("Sale: ");
+            foreach (Thing order in _orders)
             {
-                transaction.Print();
-                totalTransOrder = totalTransOrder + transaction.Total();
+                order.Print();
+                TotalSales += order.Total();
             }
-			decimal totalSale = totalBatchOrder + totalTransOrder;
-			Console.WriteLine("Sales total: $" + totalSale);
+            Console.WriteLine($"Sales total: ${TotalSales}");
         }
 
 
-	}
+
+
+
+    }
 }
 

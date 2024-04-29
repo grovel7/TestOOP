@@ -1,51 +1,54 @@
 ﻿using System;
 namespace Test
 {
-	public class Batch
+	public class Batch : Thing
 	{
 
-		private string _number;
-		private string _name;
-		private List<Transaction> _items = new List<Transaction>();
+		private List<Thing> _items = new List<Thing>();
 
-		public Batch(string number , string name)
+		public Batch(string number , string name) : base(number , name)
 		{
-			_number = number;
-			_name = name;
+			
 		}
 
 
-        public void Add(Transaction transaction)	//to add a single order
+        public void Add(Thing thing)	
         {
-            _items.Add(transaction);
+            _items.Add(thing);
         }
 
 
-		
-        public void Print()
-		{
-			Console.WriteLine($"Batch Sale: #{_number}, {_name}");
-			if(_items.Count == 0)
-			{
-				Console.WriteLine("Empty Order.");
-			}
-			else
-			{
-                foreach (Transaction i in _items)
+
+        public override void Print()
+        {
+
+            Console.WriteLine($"Batch Sale: #{Number}, {Name}");
+            
+            if (_items.Count == 0) //for empty batch
+            {
+                Console.WriteLine("Empty Order.");
+                Console.WriteLine();
+            }
+            else
+            {
+                foreach (Thing i in _items)
                 {
                     i.Print();
                 }
                 Console.WriteLine($"Total: ${Total()}");
+                Console.WriteLine();
             }
-			
-			
 
-		}
 
-		public decimal Total()
+
+        }
+
+
+
+        public override decimal Total()
 		{
 			decimal totalSum = 0;
-			foreach(Transaction i in _items)
+			foreach(Thing i in _items)
 			{
 				totalSum = totalSum + i.Total();
 			}
@@ -53,23 +56,9 @@ namespace Test
 		}
 
 
-		//readonly property
+		
 
-		public String Number 
-		{
-			get
-			{
-				return _number;
-			}
-		}
 
-		public String Name
-		{
-			get
-			{
-				return _name;
-			}
-		}
 	}
 }
 
