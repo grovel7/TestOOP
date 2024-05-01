@@ -63,7 +63,7 @@ namespace SwinAdv
                 foreach (Item i in _items)
                 {
                     
-                    listItem = listItem + i.ShortDescription;
+                    listItem = listItem + i.ShortDescription + ",\n";
                 }
                 return listItem;
             }

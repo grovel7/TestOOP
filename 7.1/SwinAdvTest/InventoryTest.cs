@@ -73,7 +73,7 @@ namespace SwinAdvTest
 
             //for chceking the short description
 
-            string result = "a shovel (shovel)" + "a sword (sword)";
+            string result = "a shovel (shovel)\n" + "a sword (sword)\n";
             Assert.AreEqual(i.ItemList, result);
 
         }

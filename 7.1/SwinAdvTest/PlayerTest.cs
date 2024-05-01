@@ -66,7 +66,7 @@ namespace SwinAdvTest
         {
             player.Inventory.Put(shovel);
             var resultDescription = player.FullDescription;
-            string Result = "sarthak, you are carrying: a shovel (shovel)" ;      //return $"{Name}, you are carrying: " + _inventory.ItemList;
+            string Result = "sarthak, you are carrying: \na shovel (shovel)\n" ;      //return $"{Name}, you are carrying: " + _inventory.ItemList;
             Assert.AreEqual(Result, resultDescription);
         }
     }

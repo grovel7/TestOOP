@@ -1,25 +1,31 @@
 ﻿<Properties StartupConfiguration="{E2AED566-A5AD-481B-B0A7-FF88B5D069F8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ShapeDrawer PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="55" Column="25" />
-      <File FileName="Drawing.cs" Line="136" Column="42" />
-      <File FileName="Shape.cs" Line="106" Column="9" />
-      <File FileName="MyRectangle.cs" Line="97" Column="6" />
-      <File FileName="MyCircle.cs" Line="64" Column="37" />
-      <File FileName="MyLine.cs" Line="94" Column="38" />
-      <File FileName="ExtensionMethods.cs" Line="28" Column="1" />
+      <File FileName="Program.cs" Line="63" Column="1" />
+      <File FileName="Drawing.cs" />
+      <File FileName="Shape.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="MyLine.cs" />
+      <File FileName="ExtensionMethods.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="ShapeDrawer">
+            <Node name="ShapeDrawer">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShapeDrawer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

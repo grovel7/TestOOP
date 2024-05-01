@@ -29,7 +29,8 @@ namespace SwinAdv
         {
             get
             {
-                return $"{Name}, you are carrying: " + _inventory.ItemList;
+                //string items = string.Join("\n", _inventory.ItemList);
+                return $"{Name}, you are carrying: \n" + _inventory.ItemList;
             }
         }
 

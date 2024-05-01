@@ -26,7 +26,7 @@ namespace SwinAdvTest
         {
             player.Inventory.Put(gem1);
             string output = command.Execute(player, new string[] { "look", "at", "me" });
-            Assert.That(output, Is.EqualTo("Sarthak, you are carrying: a red gem (ruby)"));
+            Assert.That(output, Is.EqualTo("Sarthak, you are carrying: \na red gem (ruby)\n"));
         }
 
         [Test]

@@ -24,7 +24,7 @@ namespace SwinAdv
 
             player1.Inventory.Put(stone);
             player1.Inventory.Put(stick);
-
+            
 
             //create a new bag
             Bag myBag = new Bag(new string[] {"bag"} , $"{player1.Name}'s Bag", $"this is bag");
@@ -32,6 +32,7 @@ namespace SwinAdv
 
             //create another item and add it to the bag
             Item blade = new Item(new string[] {"blade"} , "a blade" , "this is a blade");
+            //player1.Inventory.Put(blade);
             myBag.Inventory.Put(blade);
 
             //loop reading commands ftom the user and gwtting the look command to execute them

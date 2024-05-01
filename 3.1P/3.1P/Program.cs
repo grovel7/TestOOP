@@ -14,7 +14,6 @@ namespace Clock
                 clock.Tick();
                 Console.WriteLine(clock.CurrentTime());
                 
-                //Thread.Sleep(10);//delay of 10 milliseconds betn each tick
             }
 
             
